@@ -41,18 +41,18 @@ Built from the ground up to solve real-world email infrastructure challenges: au
 ![Dashboard](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/dashboard.png)
 
 ### SMTP Fleet Management
-![SMTP Fleet](screenshots/02-smtp-fleet.png)
+![SMTP Fleet]([screenshots/02-smtp-fleet.png](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/fleet.png))
 
 ### Domain Management (Auto DNS + SSL)
-![Domains](screenshots/03-domains.png)
+![Domains](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/domains.png)
 
 ### Analytics & Engagement
-![Analytics](screenshots/04-analytics.png)
+![Analytics](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/analytics.png)
 
 ### Campaign Composer
-![Campaigns](screenshots/05-campaigns.png)
+![Campaigns](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/campaign.png)
 
-*(More screenshots available in the `/screenshots` folder)*
+*(More details check my youtube: https://www.youtube.com/@projectmikky )*
 
 ## Tech Stack & Architecture Highlights
 
