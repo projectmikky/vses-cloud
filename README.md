@@ -41,7 +41,7 @@ Built from the ground up to solve real-world email infrastructure challenges: au
 ![Dashboard](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/dashboard.png)
 
 ### SMTP Fleet Management
-![SMTP Fleet]([screenshots/02-smtp-fleet.png](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/fleet.png))
+![SMTP Fleet](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/fleet.png)
 
 ### Domain Management (Auto DNS + SSL)
 ![Domains](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/domains.png)
