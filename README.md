@@ -38,7 +38,7 @@ Built from the ground up to solve real-world email infrastructure challenges: au
 ## Screenshots
 
 ### Dashboard & Core Overview
-![Dashboard](screenshots/01-dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/projectmikky/vses-cloud/main/screenshots/dashboard.png)
 
 ### SMTP Fleet Management
 ![SMTP Fleet](screenshots/02-smtp-fleet.png)
